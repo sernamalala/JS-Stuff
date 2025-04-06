@@ -38,5 +38,4 @@ const newQuote = document.getElementById("new-quote");
 
 tweet.addEventListener("click", function () {
     
-    
 })
